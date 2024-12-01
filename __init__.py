@@ -2,7 +2,7 @@ from typing import List, Optional
 
 __version__ = "24.2"
 
-
+ 
 def main(args: Optional[List[str]] = None) -> int:
     """This is an internal API only meant for use by pip's own console scripts.
 
