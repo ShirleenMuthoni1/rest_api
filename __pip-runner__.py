@@ -7,7 +7,7 @@ an import statement.
 # /!\ This version compatibility check section must be Python 2 compatible. /!\
 
 import sys
-
+ 
 # Copied from pyproject.toml
 PYTHON_REQUIRES = (3, 8)
 
